@@ -1,0 +1,39 @@
+{
+  "page_login": {
+    "title": "Log in",
+    "sign_in_title": "Loggen Sie sich ein um eine neue Session zu starten.",
+    "sign_in_email": "Email",
+    "sign_in_password": "Passwort",
+    "sign_in_rememberme": "Eingeloggt bleiben",
+    "sign_in_button": "Einloggen",
+    "sign_in_forgot_password": "Ich habe mein Passwort vergessen",
+    "sign_in_register_new": "Neu registrieren"
+  },
+  "page_register": {
+    "title": "Register",
+    "register_title": "Einen neuen Account registrieren",
+    "register_first_name": "Vorname",
+    "register_last_name": "Nachname",
+    "register_password": "Passwort",
+    "register_email": "Email",
+    "register_retype_password": "Passwort wiederholung",
+    "register_agb_agree": "Ich akzeptiere die <a href=\"#\">Terms</a>",
+    "register_button": "Register",
+    "register_back_to_login": "Ich bin bereits registriert."
+  },
+  "system": {
+    "login_post_not_found": "Es ist ein Fehler aufgetreten beim &uuml;bermitteln der Daten!",
+    "login_response_valid": "Sie haben sich erfolgreich eingeloggt und werden nun weitergeleitet!",
+    "login_response_unvalid": "Es konnte kein Account mit dieser Kombination gefunden werden!",
+
+    "register_response_not_found": "Es ist ein Fehler aufgetreten beim &uuml;bermitteln der Daten!",
+    "register_response_valid": "Sie haben sich erfolgreich registriert und werden nun weitergeleitet.",
+    "register_response_email_taken": "Die Email {email} wird bereits verwendet!",
+    "register_response_email_unvalid": "Die angegebene Email ist nicht richtig.",
+    "register_response_password_length": "Das Passwort muss aus mind. 4 Zeichen bestehen.",
+    "register_response_password_match": "Die Passw&ouml;rter stimmen nicht &uuml;berein!",
+    "register_response_terms_not_accepted": "Sie m&uuml;ssen einverstanden sein mit den <a href=\"#\">Terms</a>",
+    "register_response_first_name_required": "Ihr Vorname muss mind. 2 Zeichen besitzen.",
+    "register_response_last_name_required": "Ihr Nachname muss mind. 3 Zeichen besitzen."
+  }
+}

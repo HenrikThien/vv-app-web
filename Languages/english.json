@@ -1,0 +1,39 @@
+{
+  "page_login": {
+    "title": "Log in",
+    "sign_in_title": "Sign in to start your session",
+    "sign_in_email": "Email",
+    "sign_in_password": "Password",
+    "sign_in_rememberme": "Remember Me",
+    "sign_in_button": "Sign in",
+    "sign_in_forgot_password": "I forgot my password",
+    "sign_in_register_new": "Register a new membership"
+  },
+  "page_register": {
+    "title": "Register",
+    "register_title": "Register a new membership",
+    "register_first_name": "First name",
+    "register_last_name": "Last name",
+    "register_password": "Password",
+    "register_email": "Email",
+    "register_retype_password": "Retype password",
+    "register_agb_agree": "I agree to the <a href=\"#\">terms</a>",
+    "register_button": "Register",
+    "register_back_to_login": "I already have a membership"
+  },
+  "system": {
+    "login_post_not_found": "An error occured while sending the data!",
+    "login_response_valid": "You have successfully signd in, we will redict you now!",
+    "login_response_unvalid": "The email and password don't match.",
+
+    "register_response_not_found": "An error occured while sending the data!",
+    "register_response_valid": "You have successfully signd up, we will redict you now!",
+    "register_response_email_taken": "The email {email} is already in use!",
+    "register_response_email_unvalid": "The email you provided is not a valid email",
+    "register_response_password_length": "The password must contains at least 4 charaters.",
+    "register_response_password_match": "The passwords don't match!",
+    "register_response_terms_not_accepted": "You need to accept our <a href=\"#\">Terms</a>.",
+    "register_response_first_name_required": "You need to enter at least 2 charaters.",
+    "register_response_last_name_required": "You need to enter at least 3 charaters."
+  }
+}
