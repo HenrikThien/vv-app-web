@@ -8,10 +8,10 @@ DEFINE ("CMS_TEMPLATE", "adminlte");
  */
 DEFINE("DB_CON_TYPE", "PDODatabase"); // put classname here (Slicket/Library/Databases/)
 
-DEFINE("DB_HOST", "db608574261.db.1and1.com");
-DEFINE("DB_USER", "dbo608574261");
-DEFINE("DB_PASSWORD", "htare51");
-DEFINE("DB_NAME", "db608574261");
+DEFINE("DB_HOST", "HOST");
+DEFINE("DB_USER", "USER");
+DEFINE("DB_PASSWORD", "PASSWORD");
+DEFINE("DB_NAME", "DB_NAME");
 
 /*
  * Language config
